@@ -1,6 +1,6 @@
 # Александр Купцов - "Суперкалькулятор - СК - 1"
 ### Группа: 10 - МИ - 1
 ### Электронная почта: akuptsov.hse@gmail.com
-### VK: vk.com/alekscooper
+### VK: www.vk.com/alekscooper
 
 
